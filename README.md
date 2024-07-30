@@ -11,11 +11,11 @@ Installation
 1.	Clone the Repository:
 git clone https://github.com/your-username/CosmosNodeUnjail.git
 cd CosmosNodeUnjail
-2.	Create Configuration File:
+3.	Create Configuration File:
 Create a file named config.sh and add your Telegram bot token and chat ID:
 TELEGRAM_BOT_TOKEN="your-telegram-bot-token"
 CHAT_ID="your-telegram-chat-id"
-3.	Make the Script Executable:
+4.	Make the Script Executable:
 chmod +x cosmos_node_guardian.sh
 
 Configuration
