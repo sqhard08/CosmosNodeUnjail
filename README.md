@@ -9,7 +9,7 @@ Features
 
 Installation
 1.	Clone the Repository:
-git clone https://github.com/your-username/CosmosNodeUnjail.git
+git clone https://github.com/your-username/CosmosNodeUnjail.git	
 cd CosmosNodeUnjail
 3.	Create Configuration File:
 Create a file named config.sh and add your Telegram bot token and chat ID:
