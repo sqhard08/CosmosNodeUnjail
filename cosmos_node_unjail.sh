@@ -1,4 +1,4 @@
-4#!/bin/bash
+5#!/bin/bash
 
 # Путь к лог-файлу
 LOG_FILE="/root/jail_arkeo_testnet.log"
