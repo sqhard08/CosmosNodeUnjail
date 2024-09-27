@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Путь к лог-файлу
-LOG_FILE="/root/jail_arkeo_testnet.log"
+LOG_FILE="/root/jail.log"
 
 # Загрузка конфигурационного файла
 source /path/to/config.sh
