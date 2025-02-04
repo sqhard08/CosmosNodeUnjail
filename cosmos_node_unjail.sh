@@ -1,4 +1,4 @@
-1#!/bin/bash
+2#!/bin/bash
 
 # Путь к лог-файлу
 LOG_FILE="/root/jail.log"
